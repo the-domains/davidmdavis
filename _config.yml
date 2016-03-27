@@ -1,6 +1,6 @@
 name: DavidMDavis
 favicon: null
-layout_spectrum: 0.673545946367085
+layout_spectrum: 0.19235
 typography_spectrum: 0.1245060870423913
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#f3f7f8'
+    - '#011b2f'
+    - '#85b0d0'
+    - '#527f9c'
+    - '#b8d1e1'
   brandStrength: 0.8564877733588219
   lightness: 0.2934652855619788
   saturation: 0.2659147912636399
