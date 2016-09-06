@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[DavidMDavis]]></title>
         <description><![CDATA[DavidMDavis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/davidmdavis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 23:44:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 03 Sep 2016 05:42:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/davidmdavis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why this site?]]></title>
-            <description><![CDATA[<article><h1>Why this site?</h1><p>Why did I create DavidMDavis.com ?</p></article>]]></description>
-            <link>undefinedwhy-this-site/index.html</link>
+            <description><![CDATA[<p>There are too many blogs on the web and most are old and unmaintained. I already own / run a number of blogs and they too are already old and unmaintained. So why create another one?</p>]]></description>
+            <link>https://thegrid.ai/davidmdavis/why-this-site/index.html</link>
             <guid isPermaLink="false">e1a8ed2a-483a-4fae-873d-336c7493a99e</guid>
-            <pubDate>Sun, 27 Mar 2016 23:44:17 GMT</pubDate>
+            <pubDate>Sat, 03 Sep 2016 05:42:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
